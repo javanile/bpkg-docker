@@ -12,3 +12,21 @@ bpkg install javanile/bpkg-docker
 $ docker --version
 Docker version 20.10.7, build 20.10.7-0ubuntu5~20.04.2
 ```
+
+## Usage
+
+Create a file `bpkg.json` into your shell project with the follow 
+
+```json
+{
+  .
+  .
+  "dependencies": {
+    "javanile/bpkg-docker": "20.0.0"
+  }
+  .
+  .
+}
+```
+
+With this you have Docker into your system
