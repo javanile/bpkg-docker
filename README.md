@@ -1,6 +1,6 @@
 # bpkg-docker
 
-This is a package placeholder to check or install Docker using `bpkg`
+This is a package placeholder for checking or installing Docker into a Linux server using `bpkg`
 
 ## Install
 
